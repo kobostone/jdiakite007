@@ -1,5 +1,5 @@
 
-# 👋 Bienvenue sur le GitHub officiel de Jacob Diakite 
+# 👋 Hi, I'm Jacob! 
 
 Bienvenue sur cet espace dédié au partage de ressources (scripts, fichiers de configuration, slides, etc...) en lien avec les sujets qui me passionnent.
 
