@@ -1,3 +1,24 @@
+
+# 👋 Bienvenue sur le GitHub officiel de Jacob Diakite 
+
+Bienvenue sur cet espace dédié au partage de ressources (scripts, fichiers de configuration, slides, etc...) en lien avec les sujets qui me passionnent.
+
+## À propos de MOI
+ 
+Administrateur système et réseaux avec une appetence pour le DevOps, je suis plutôt généraliste avec une appétence pour le cloud et le devops. Mes centres d'interet couvrent un large éventail de sujets (système, réseau, sécurité, base de données, devops, etc.)  
+
+Je suis ici pour partager mon travail  avec l'objectif : « Plus vous partagez, plus vous apprenez. »
+ 
+Je crois fermement au fait que « l'apprentissage est un processus constant de découverte de soi ».
+
+
+## Contribuer
+
+La communauté est encouragée à contribuer en proposant des améliorations ou en signalant les éventuels problèmes détectés.
+
+Happy scripting ! 😊
+
+
 <h1>Hi, I'm Jacob! <br/><a href="https://github.com/jdiakite007">Programmer</a>, <a href="https://www.linkedin.com/in/jacob-diakite/">I start learning DevOps</a> </h1>
 
 <h2>👨‍💻 I’m currently working on Kubernetes:</h2>
