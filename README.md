@@ -5,7 +5,7 @@ Bienvenue sur cet espace dédié au partage de ressources (scripts, fichiers de 
 
 ## À propos de MOI
  
-Administrateur système et réseaux avec une appetence pour le DevOps, je suis plutôt généraliste avec une appétence pour le cloud et le devops. Mes centres d'interet couvrent un large éventail de sujets (système, réseau, sécurité, base de données, devops, etc.)  
+Administrateur système et réseaux, je suis plutôt généraliste avec une appétence pour le cloud et le devops. Mes centres d'intéret couvrent un large éventail de sujets(système, réseau, sécurité, base de données, devops, etc.)  
 
 Je suis ici pour partager mon travail  avec l'objectif : « Plus vous partagez, plus vous apprenez. »
  
