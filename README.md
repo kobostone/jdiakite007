@@ -19,7 +19,7 @@ La communauté est encouragée à contribuer en proposant des améliorations ou 
 Happy scripting ! 😊
 
 
-<h1>Hi, I'm Jacob! <br/><a href="https://github.com/jdiakite007"></a>, <a href="https://www.linkedin.com/in/jacob-diakite/">I start learning DevOps</a> </h1>
+<h1> <br/><a href="https://github.com/jdiakite007"></a>, <a href="https://www.linkedin.com/in/jacob-diakite/">I start learning DevOps</a> </h1>
 
 <h2>👨‍💻 I’m currently working on Kubernetes:</h2>
 
