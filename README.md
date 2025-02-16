@@ -16,8 +16,6 @@ Je crois fermement au fait que « l'apprentissage est un processus constant de d
 
 La communauté est encouragée à contribuer en proposant des améliorations ou en signalant les éventuels problèmes détectés.
 
-Happy scripting ! 😊
-
 
 <h1> <br/><a href="https://github.com/jdiakite007"></a> <a href="https://www.linkedin.com/in/jacob-diakite/">I start learning DevOps</a> </h1>
 
