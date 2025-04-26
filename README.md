@@ -51,7 +51,7 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
 
 <h1> <br/><a href="https://github.com/jdiakite007"></a> <a href="https://www.linkedin.com/in/jacob-diakite/">I start learning DevOps</a> </h1>
 
-<h2>👨‍💻 I’m currently working on Docker:</h2>
+<h2>👨‍💻 I’m currently working on Azure:</h2>
 
 - <b>Multi-stage builds</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -66,23 +66,15 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JacobDiakite | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/jacob-diakite
-
-<!--
-
--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jacob-diakite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
- 
-   <a href="https://www.youtube.com/channel/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/channel/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Azure
 - 💞️ I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
