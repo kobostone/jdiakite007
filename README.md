@@ -7,20 +7,14 @@ Bienvenue sur cet espace dédié au partage de ressources en lien avec les sujet
 Je suis plutôt généraliste avec une appétence pour le cloud et le devops. Mes centres d'intéret couvrent un large éventail de sujets (système, réseau, sécurité, base de données, devops, etc.) 
 Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, plus vous apprenez. »
  
-🎤 
-🤝 
-💼 
-📧 
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
+ 
   <a href="https://linkedin.com/in/adityajaiswal7">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jacob%20Diakite-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
