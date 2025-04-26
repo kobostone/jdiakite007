@@ -48,9 +48,6 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdiakite007&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 
-
-<h1> <br/><a href="https://github.com/jdiakite007"></a> <a href="https://www.linkedin.com/in/jacob-diakite/">I start learning DevOps</a> </h1>
-
 <h2>👨‍💻 I’m currently working on Azure:</h2>
 
 - <b>Multi-stage builds</b>
@@ -60,8 +57,6 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
-
-
 
 
 <h2> 🤳 Connect with me:</h2>
