@@ -45,20 +45,14 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdiakite007&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdiakite007&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-
-
-## Contribuer
-
-La communauté est encouragée à contribuer en proposant des améliorations ou en signalant les éventuels problèmes détectés.
 
 
 <h1> <br/><a href="https://github.com/jdiakite007"></a> <a href="https://www.linkedin.com/in/jacob-diakite/">I start learning DevOps</a> </h1>
