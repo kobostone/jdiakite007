@@ -1,10 +1,8 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-
-## 👋 Hey Everyone,👋 I'm Jacob Diakité! 
+<h1 align="center">Hey Everyone 👋, I'm Jacob Diakité</h1>
 
 Bienvenue sur cet espace dédié au partage de ressources en lien avec les sujets qui me passionnent.
 
-## 👨‍💼 About Me & 🤝 Open to Collaborations
+## 👨‍💼 About Me & 🤝 
 
 Je suis plutôt généraliste avec une appétence pour le cloud et le devops. Mes centres d'intéret couvrent un large éventail de sujets (système, réseau, sécurité, base de données, devops, etc.) 
 Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, plus vous apprenez. »
