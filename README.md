@@ -1,11 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Jacob Diakité</h1>
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/jdiakite007" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @jdiakite007 on GitHub">Follow @jdiakite007</a>
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 Bienvenue sur cet espace dédié au partage de ressources en lien avec les sujets qui me passionnent.
 
 ## 👨‍💼 About Me & 🤝 
