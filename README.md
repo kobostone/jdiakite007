@@ -24,12 +24,6 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
   <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jacob-diakite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
- 
-   <a href="https://www.youtube.com/channel/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -79,9 +73,13 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
 <!--
 
 -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/jacob-diakite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+ 
+   <a href="https://www.youtube.com/channel/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
 
-
-- 👋 Hi, I’m @jdiakite007
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ...
