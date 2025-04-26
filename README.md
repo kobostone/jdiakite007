@@ -9,8 +9,8 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
  
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  <a href="https://github.com/jdiakite007">
+    <img src="https://img.shields.io/github/followers/jdiakite007?label=Follow&style=social" />
   </a>
  
   <a href="https://linkedin.com/in/jacob-diakite">
