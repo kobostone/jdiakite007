@@ -13,7 +13,7 @@ Je suis ici pour partager mon travail avec l'objectif : « Plus vous partagez, p
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
  
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://linkedin.com/in/jacob-diakite">
     <img src="https://img.shields.io/badge/LinkedIn-Jacob%20Diakite-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
