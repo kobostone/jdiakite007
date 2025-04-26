@@ -1,5 +1,5 @@
 
-# 👋 Hey EVeryone,👋 I'm Jacob Diakité! 
+## 👋 Hey Everyone,👋 I'm Jacob Diakité! 
 
 Bienvenue sur cet espace dédié au partage de ressources en lien avec les sujets qui me passionnent.
 
