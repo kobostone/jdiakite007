@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Jacob! 
+# 👋 Hey EVeryone,👋 I'm Jacob Diakité! 
 
-Bienvenue sur cet espace dédié au partage de ressources (scripts, fichiers de configuration, slides, etc...) en lien avec les sujets qui me passionnent.
+Bienvenue sur cet espace dédié au partage de ressources en lien avec les sujets qui me passionnent.
 
 ## À propos de MOI
  
@@ -11,7 +11,15 @@ Je suis ici pour partager mon travail  avec l'objectif : « Plus vous partagez, 
  
 Je crois fermement au fait que « l'apprentissage est un processus constant de découverte de soi ».
 
+👨‍💼 About Me & 🤝 Open to Collaborations
 
+Administrateur système et réseaux, je suis plutôt généraliste avec une appétence pour le cloud et le devops. Mes centres d'intéret couvrent un large éventail de sujets (système, réseau, sécurité, base de données, devops, etc.) 
+🎤 Available for Guest Sessions / Webinars
+🤝 Open to Project Collaborations / YouTube Collabs
+💼 Offering DevOps Consulting / Mentorship
+📧 Let’s chat: office@devopsshack.com
+
+"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"
 ## Contribuer
 
 La communauté est encouragée à contribuer en proposant des améliorations ou en signalant les éventuels problèmes détectés.
